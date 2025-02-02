@@ -1,0 +1,33 @@
+.sales-container {
+    width: 80%;
+    margin: auto;
+    text-align: center;
+  }
+  
+  .add-lead input {
+    margin: 5px;
+    padding: 8px;
+    border-radius: 5px;
+  }
+  
+  .pipeline {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+  }
+  
+  .stage {
+    width: 30%;
+    padding: 10px;
+    border: 1px solid gray;
+    background: #f4f4f4;
+  }
+  
+  .lead-item {
+    background: white;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+  }
+  

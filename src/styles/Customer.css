@@ -1,0 +1,68 @@
+.customer-card {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 16px;
+    margin: 16px;
+    background-color: #f9f9f9;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .customer-card h3 {
+    margin: 0;
+    color: #333;
+  }
+  
+  .customer-card p {
+    margin: 8px 0;
+    color: #666;
+  }
+  
+  .customer-card h4 {
+    margin-top: 16px;
+    color: #444;
+  }
+  
+  .customer-card ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .customer-card li {
+    background-color: #e9ecef;
+    margin: 4px 0;
+    padding: 8px;
+    border-radius: 4px;
+  }
+  
+  .customer-card input[type="text"] {
+    width: calc(100% - 20px);
+    padding: 8px;
+    margin-right: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .customer-card button {
+    padding: 8px 12px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .customer-card button:hover {
+    background-color: #0056b3;
+  }
+  
+  .customer-card button:last-child {
+    background-color: #dc3545;
+  }
+  
+  .customer-card button:last-child:hover {
+    background-color: #c82333;
+  }
+
+.Delet{
+    margin-left: 10px;
+}
